@@ -1,6 +1,6 @@
 /*********************************************************************************************************************
      **
-     **  Create a Binary Tree using level order and sorted manner
+     **  Created a Binary Tree using level order and sorted manner
      **  Input in the format of integer array
      **  Display in Inorder, Preorder and Postorder manner
      **  Tree is printed in 2dimensional from top to bottom in left to right way
